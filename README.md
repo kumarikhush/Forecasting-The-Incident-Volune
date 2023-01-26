@@ -2,7 +2,7 @@
 
 Import all the libaries which we need. 
 
-Data Inspection-
+**Data Inspection**-
 
 -> Remove unwanted column.
 
@@ -10,7 +10,7 @@ Data Inspection-
 
 ->Explore data for incident status
 
-Forecasting the incident volume.
+**Forecasting the incident volume**
 
 ->Importing the necessary column.
 
